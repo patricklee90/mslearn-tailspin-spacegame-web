@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/rickylee90/Space%20Game%20-%20web%20-%20Tests_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/rickylee90/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=4&branchName=master)
+[![Board Status](https://dev.azure.com/rickylee90/c2244889-8a23-4b8b-9059-a4e2094d165c/859d4f9d-cd33-41da-9d8a-eba6c9507f12/_apis/work/boardbadge/cc79ea27-8331-42c7-9e3e-58d519a33ead)](https://dev.azure.com/rickylee90/c2244889-8a23-4b8b-9059-a4e2094d165c/_boards/board/t/859d4f9d-cd33-41da-9d8a-eba6c9507f12/Microsoft.RequirementCategory/)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
